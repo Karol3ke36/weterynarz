@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Weterynarz</string>
+    <string-array name="Zwierzeta">
+        <item>Pies</item>
+        <item>Kot</item>
+        <item>Świnka Morska</item>
+    </string-array>
 </resources>
